@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Barcode.TabPage.Tab2"
+             Title="Tab2" BackgroundColor="Beige">
+    
+    <StackLayout Padding="10" VerticalOptions="CenterAndExpand" Spacing="20">
+            <Label Text="Egitimler" TextColor="Black" ></Label>
+            <Label Text="Basari Hikayeleri" TextColor="Black" ></Label>
+            <Label Text="Seçenekler" TextColor="Black" ></Label>
+            <Label Text="İlk 10" TextColor="Black" ></Label>
+            <Label Text="Soru Cevap" TextColor="Black" ></Label>
+            <Label Text="Egitimler" TextColor="Black" ></Label>
+            <Label Text="wwww.microsoft.com" TextColor="Blue" ></Label>
+           </StackLayout>
+  
+   
+</ContentPage>
